@@ -134,7 +134,8 @@ while running:
             if folder.drawing:
                 folder.core(event.pos, helper.current_mode, helper.current_color)
 
-    
+     
+     
 
     helper.drawfolder()
     folder.drawfolder()
